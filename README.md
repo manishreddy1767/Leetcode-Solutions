@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
