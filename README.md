@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
