@@ -80,6 +80,7 @@
 | [0002-add-two-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
