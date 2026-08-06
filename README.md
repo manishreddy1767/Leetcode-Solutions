@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0016-3sum-closest](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +80,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
