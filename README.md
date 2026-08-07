@@ -101,6 +101,7 @@
 | [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
