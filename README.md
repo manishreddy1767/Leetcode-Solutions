@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
