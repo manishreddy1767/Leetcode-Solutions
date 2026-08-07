@@ -53,6 +53,7 @@
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
