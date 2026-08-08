@@ -1,12 +1,17 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        ans = []
-        for i in nums:
-            c = 0
-            for j in nums:
-                if i>j:
-                    c+=1
-            ans.append(c)
-        return ans
-
+        l = []                 
+        
+        for p1 in nums:         
+            contador = 0  
+            
+            for p2 in nums:     
+                if p1 > p2:     
+                    contador += 1
+                    
+            l.append(contador)  
+            
+        return l       
+            
+       
         
