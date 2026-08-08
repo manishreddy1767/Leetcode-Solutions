@@ -20,6 +20,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [1929-concatenation-of-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [1929-concatenation-of-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
