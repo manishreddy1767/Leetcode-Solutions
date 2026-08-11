@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -111,6 +112,7 @@
 | [0002-add-two-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -131,6 +133,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 ## Simulation
