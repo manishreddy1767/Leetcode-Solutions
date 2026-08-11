@@ -84,6 +84,7 @@
 | [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -131,6 +133,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
