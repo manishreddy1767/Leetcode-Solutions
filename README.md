@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 ## Number Theory
 |  |
 | ------- |
