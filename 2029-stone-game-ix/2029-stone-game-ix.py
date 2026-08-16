@@ -1,0 +1,9 @@
+class Solution:
+    def stoneGameIX(self, stones: List[int]) -> bool:
+        l = [0] * 3
+        for i in stones:
+            l[i%3] += 1
+        if l[0] % 2 == 0:
+            return l[1] >= 1 and l[2] >= 1
+        else:
+            return abs(l[1] - l[2]) > 2
