@@ -137,6 +137,7 @@
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1563-stone-game-v](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 ## Backtracking
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
