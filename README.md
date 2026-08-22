@@ -85,6 +85,7 @@
 | [0162-find-peak-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,4 +311,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
