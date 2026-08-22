@@ -106,6 +106,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -137,6 +138,7 @@
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0392-is-subsequence) |
