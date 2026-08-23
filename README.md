@@ -23,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -84,6 +85,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
@@ -92,6 +94,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0048-rotate-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
