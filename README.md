@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
@@ -222,6 +224,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
