@@ -33,6 +33,7 @@
 | [0495-teemo-attacking](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -286,6 +287,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
