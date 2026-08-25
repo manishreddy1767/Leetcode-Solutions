@@ -36,6 +36,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -328,6 +329,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Interactive
 |  |
