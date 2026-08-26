@@ -177,6 +177,7 @@
 | [0055-jump-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1563-stone-game-v](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 ## Backtracking
 |  |
@@ -203,6 +204,7 @@
 | [0412-fizz-buzz](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1518-water-bottles) |
@@ -346,4 +348,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
