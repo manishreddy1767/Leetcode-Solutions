@@ -22,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +69,7 @@
 | [0041-first-missing-positive](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
@@ -144,6 +147,7 @@
 | [0015-3sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -309,6 +313,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -377,4 +382,8 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
