@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [0415-add-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1518-water-bottles) |
