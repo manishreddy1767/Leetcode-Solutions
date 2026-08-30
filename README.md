@@ -352,6 +352,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -411,4 +413,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
