@@ -46,6 +46,7 @@
 | [0832-flipping-an-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -152,6 +153,7 @@
 | [0455-assign-cookies](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -173,6 +175,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
