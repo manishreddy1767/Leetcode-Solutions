@@ -47,6 +47,7 @@
 | [0867-transpose-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
