@@ -45,6 +45,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -212,6 +213,7 @@
 | [0657-robot-return-to-origin](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1528-shuffle-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
