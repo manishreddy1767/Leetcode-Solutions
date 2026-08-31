@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
@@ -81,6 +82,7 @@
 | [0202-happy-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -167,6 +169,7 @@
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -347,6 +350,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
@@ -422,6 +426,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
