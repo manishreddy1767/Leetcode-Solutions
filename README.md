@@ -115,6 +115,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Binary Search
 |  |
 | ------- |
