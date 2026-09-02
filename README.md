@@ -64,6 +64,7 @@
 | [1563-stone-game-v](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1720-decode-xored-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -361,6 +362,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
 |  |
