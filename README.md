@@ -71,6 +71,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [3875-construct-uniform-parity-array-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
