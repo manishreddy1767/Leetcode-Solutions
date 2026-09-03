@@ -268,6 +268,7 @@
 | [0412-fizz-buzz](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
