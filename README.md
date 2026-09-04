@@ -77,6 +77,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -432,6 +433,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Interactive
 |  |
 | ------- |
