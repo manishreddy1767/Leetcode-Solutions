@@ -53,6 +53,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -200,6 +201,7 @@
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -389,6 +391,7 @@
 | [0347-top-k-frequent-elements](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -477,4 +480,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
