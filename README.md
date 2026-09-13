@@ -70,6 +70,7 @@
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1929-concatenation-of-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2057-smallest-index-with-equal-value](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
