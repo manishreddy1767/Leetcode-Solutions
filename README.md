@@ -72,6 +72,7 @@
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2057-smallest-index-with-equal-value](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -112,6 +113,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -207,6 +209,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -301,6 +304,7 @@
 | [0050-powx-n](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [2094-finding-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -463,6 +467,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
