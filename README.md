@@ -73,6 +73,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -182,6 +183,7 @@
 | [0905-sort-array-by-parity](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@
 | [1678-goal-parser-interpretation](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
