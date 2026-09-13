@@ -213,6 +213,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -299,6 +300,7 @@
 | [1563-stone-game-v](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3870-count-commas-in-range](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -378,6 +380,7 @@
 | [0605-can-place-flowers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
