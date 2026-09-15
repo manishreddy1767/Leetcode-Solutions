@@ -140,6 +140,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -281,6 +282,7 @@
 | [0043-multiply-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -506,4 +508,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
