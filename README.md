@@ -322,6 +322,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
@@ -426,11 +427,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Minimax
 |  |
