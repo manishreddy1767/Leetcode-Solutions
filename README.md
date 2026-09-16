@@ -37,6 +37,7 @@
 | [0414-third-maximum-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
+| [0561-array-partition](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -205,6 +206,7 @@
 | [0389-find-the-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -383,6 +385,7 @@
 | [0179-largest-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -412,6 +415,7 @@
 | [0229-majority-element-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0561-array-partition](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
