@@ -257,6 +257,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -363,6 +364,7 @@
 | [0867-transpose-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
