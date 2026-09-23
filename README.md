@@ -59,6 +59,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -150,6 +151,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -348,6 +350,7 @@
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
