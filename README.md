@@ -247,6 +247,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1108-defanging-an-ip-address](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -390,6 +391,7 @@
 | [0455-assign-cookies](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -421,6 +423,7 @@
 | [0561-array-partition](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
