@@ -231,6 +231,7 @@
 | [0006-zigzag-conversion](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -290,6 +291,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -343,6 +345,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0682-baseball-game) |
