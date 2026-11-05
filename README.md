@@ -379,6 +379,7 @@
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -601,4 +602,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
