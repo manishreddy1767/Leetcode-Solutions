@@ -378,6 +378,7 @@
 | [0020-valid-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -596,4 +597,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
