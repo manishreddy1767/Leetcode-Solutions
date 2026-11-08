@@ -58,6 +58,7 @@
 | [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -402,6 +403,7 @@
 | [0289-game-of-life](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -485,6 +487,7 @@
 | [0819-most-common-word](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -507,10 +510,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -613,4 +618,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/manishreddy1767/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
